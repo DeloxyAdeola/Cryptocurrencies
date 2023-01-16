@@ -5,4 +5,4 @@ Seen in these screenshots a few cryptocurrencies, including TurtleCoin, BitTorre
 [click here]([image_url](https://github.com/DeloxyAdeola/Cryptocurrencies/blob/main/fig/fig%205.png))
 
 
-[click here]([image_url](https://github.com/DeloxyAdeola/Cryptocurrencies/blob/main/fig/fig%207.png)) 
+[click here]((https://github.com/DeloxyAdeola/Cryptocurrencies/blob/main/fig/fig%207.png)) 
